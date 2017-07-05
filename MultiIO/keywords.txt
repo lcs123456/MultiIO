@@ -1,8 +1,0 @@
-confPinosIn		KEYWORD1
-confPinosOut	KEYWORD1
-LeEntrada		KEYWORD2
-escreveSaida	KEYWORD2
-LeSaida			KEYWORD2
-PortEntrada		KEYWORD2
-LePortSaida		KEYWORD2
-escreveport		KEYWORD2
